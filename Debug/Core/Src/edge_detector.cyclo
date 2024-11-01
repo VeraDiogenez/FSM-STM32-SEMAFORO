@@ -1,0 +1,9 @@
+../Core/Src/edge_detector.c:11:12:is_high	1
+../Core/Src/edge_detector.c:16:12:is_low	1
+../Core/Src/edge_detector.c:22:6:on_state_idle_high	1
+../Core/Src/edge_detector.c:26:6:on_state_idle_low	1
+../Core/Src/edge_detector.c:30:6:on_state_rising_edge	1
+../Core/Src/edge_detector.c:34:6:on_state_falling_edge	1
+../Core/Src/edge_detector.c:66:6:edge_detector_init	1
+../Core/Src/edge_detector.c:72:6:edge_detector_update	1
+../Core/Src/edge_detector.c:77:14:get_edge_detector_state	1

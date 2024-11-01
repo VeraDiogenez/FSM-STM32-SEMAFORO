@@ -1,0 +1,8 @@
+../Core/Src/debouncer.c:12:12:is_button_pressed	1
+../Core/Src/debouncer.c:16:12:is_button_pressed_and_timer_expired	3
+../Core/Src/debouncer.c:20:12:is_button_released_and_timer_expired	3
+../Core/Src/debouncer.c:40:6:on_state_pressed	1
+../Core/Src/debouncer.c:45:6:on_state_released	1
+../Core/Src/debouncer.c:58:6:debounced_switch_init	1
+../Core/Src/debouncer.c:66:6:debounced_switch_update	1
+../Core/Src/debouncer.c:72:15:get_debounced_switch_state	1

@@ -1,0 +1,6 @@
+../Core/Src/blink_control.c:13:12:timer_expired	1
+../Core/Src/blink_control.c:19:6:on_state_led_off	1
+../Core/Src/blink_control.c:25:6:on_state_led_on	1
+../Core/Src/blink_control.c:47:6:blink_control_init	1
+../Core/Src/blink_control.c:55:6:blink_control_update	1
+../Core/Src/blink_control.c:60:6:set_blink_period	1

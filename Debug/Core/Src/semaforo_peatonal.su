@@ -1,0 +1,8 @@
+../Core/Src/semaforo_peatonal.c:21:12:button_pressed	16	static
+../Core/Src/semaforo_peatonal.c:27:12:timer_expired	24	static
+../Core/Src/semaforo_peatonal.c:33:6:on_state_verde	24	static
+../Core/Src/semaforo_peatonal.c:43:6:on_state_verde_parpadeo	24	static
+../Core/Src/semaforo_peatonal.c:51:6:on_state_rojo	24	static
+../Core/Src/semaforo_peatonal.c:59:6:on_state_rojo_parpadeo	24	static
+../Core/Src/semaforo_peatonal.c:94:6:semaforo_peatonal_init	16	static
+../Core/Src/semaforo_peatonal.c:110:6:semaforo_peatonal_update	16	static

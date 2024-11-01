@@ -1,0 +1,4 @@
+../Core/Src/timer.c:22:6:timer_start	16	static
+../Core/Src/timer.c:30:6:timer_restart	16	static
+../Core/Src/timer.c:39:5:timer_has_expired	16	static
+../Core/Src/timer.c:46:6:timer_update_duration	16	static
